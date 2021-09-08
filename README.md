@@ -4,5 +4,5 @@ Data Picker using pure javascript.
 # Run
 npm start
 
-#Build
+# Build
 npm run-script build
